@@ -1,0 +1,9 @@
+[submodule "client-billing-service"]
+	path = client-billing-service
+	url = https://github.com/vidurapriyadarshana/client-billing-service.git
+[submodule "service-desk-service"]
+	path = service-desk-service
+	url = https://github.com/vidurapriyadarshana/service-desk-service.git
+[submodule "product-license-service"]
+	path = product-license-service
+	url = https://github.com/vidurapriyadarshana/product-license-service.git
